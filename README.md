@@ -9,6 +9,13 @@ Software used:
 - Terminal: foot
 - App launcher: rofi
 
-Fonts used: Material Icons Desktp, Google Sans, Iosevka Nerd Font, Font Awesome
+Fonts used: 
+- Material Icons Desktop
+- Google Sans
+- Iosevka Nerd Font
+- Font Awesome
+
+
 The system colorscheme is catppuccin mocha
-Wallpaper: https://co.pinterest.com/pin/211174975253569/ (Im not sure if this will look good on resolutions higher than 1600x900)
+  
+  Wallpaper: https://co.pinterest.com/pin/211174975253569/ (Im not sure if this will look good on resolutions higher than 1600x900)
